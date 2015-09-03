@@ -5,8 +5,8 @@
 # To run this script, use your little python knowledge
 
                     ######################################
-                    ##    Proudly Made By An INDIAN     ##
-                    ##   Author : Rohit Saxsena INDIA   ##
+                    ##                                  ##
+                    ##   Author : Sandeep Saini         ##
                     ##        Version : v0.1rs          ##
                     ######################################
           
